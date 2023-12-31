@@ -1,0 +1,90 @@
+2023-12-05 20:34:13,136:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:34:13,136:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:34:13,136:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:34:13,136:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:34:13,577:INFO:PyCaret ClassificationExperiment
+2023-12-05 20:34:13,577:INFO:Logging name: clf-default-name
+2023-12-05 20:34:13,577:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-12-05 20:34:13,577:INFO:version 3.2.0
+2023-12-05 20:34:13,577:INFO:Initializing setup()
+2023-12-05 20:34:13,577:INFO:self.USI: bee9
+2023-12-05 20:34:13,577:INFO:self._variable_keys: {'y_train', 'log_plots_param', 'X_test', 'fold_shuffle_param', 'memory', 'exp_name_log', 'fold_generator', 'X_train', 'fix_imbalance', 'n_jobs_param', 'seed', 'gpu_n_jobs_param', 'fold_groups_param', 'y', 'gpu_param', 'data', 'idx', 'is_multiclass', 'exp_id', '_ml_usecase', 'pipeline', 'y_test', 'logging_param', 'USI', '_available_plots', 'X', 'html_param', 'target_param'}
+2023-12-05 20:34:13,577:INFO:Checking environment
+2023-12-05 20:34:13,577:INFO:python_version: 3.11.5
+2023-12-05 20:34:13,577:INFO:python_build: ('main', 'Sep 11 2023 08:19:27')
+2023-12-05 20:34:13,577:INFO:machine: x86_64
+2023-12-05 20:34:13,577:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-12-05 20:34:13,577:INFO:Memory: svmem(total=8589934592, available=2964201472, percent=65.5, used=4696547328, free=14909440, active=2951118848, inactive=2933145600, wired=1745428480)
+2023-12-05 20:34:13,578:INFO:Physical Core: 2
+2023-12-05 20:34:13,578:INFO:Logical Core: 4
+2023-12-05 20:34:13,578:INFO:Checking libraries
+2023-12-05 20:34:13,578:INFO:System:
+2023-12-05 20:34:13,578:INFO:    python: 3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
+2023-12-05 20:34:13,578:INFO:executable: /Users/anaconda3/envs/kumar/bin/python
+2023-12-05 20:34:13,578:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-12-05 20:34:13,578:INFO:PyCaret required dependencies:
+2023-12-05 20:36:04,550:INFO:PyCaret ClassificationExperiment
+2023-12-05 20:36:04,553:INFO:Logging name: clf-default-name
+2023-12-05 20:36:04,553:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-12-05 20:36:04,553:INFO:version 3.2.0
+2023-12-05 20:36:04,553:INFO:Initializing setup()
+2023-12-05 20:36:04,553:INFO:self.USI: 35fc
+2023-12-05 20:36:04,553:INFO:self._variable_keys: {'y_train', 'log_plots_param', 'X_test', 'fold_shuffle_param', 'memory', 'exp_name_log', 'fold_generator', 'X_train', 'fix_imbalance', 'n_jobs_param', 'seed', 'gpu_n_jobs_param', 'fold_groups_param', 'y', 'gpu_param', 'data', 'idx', 'is_multiclass', 'exp_id', '_ml_usecase', 'pipeline', 'y_test', 'logging_param', 'USI', '_available_plots', 'X', 'html_param', 'target_param'}
+2023-12-05 20:36:04,553:INFO:Checking environment
+2023-12-05 20:36:04,553:INFO:python_version: 3.11.5
+2023-12-05 20:36:04,554:INFO:python_build: ('main', 'Sep 11 2023 08:19:27')
+2023-12-05 20:36:04,554:INFO:machine: x86_64
+2023-12-05 20:36:04,554:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-12-05 20:36:04,554:INFO:Memory: svmem(total=8589934592, available=3020500992, percent=64.8, used=4603912192, free=163336192, active=2863951872, inactive=2855215104, wired=1739960320)
+2023-12-05 20:36:04,554:INFO:Physical Core: 2
+2023-12-05 20:36:04,554:INFO:Logical Core: 4
+2023-12-05 20:36:04,554:INFO:Checking libraries
+2023-12-05 20:36:04,554:INFO:System:
+2023-12-05 20:36:04,554:INFO:    python: 3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
+2023-12-05 20:36:04,555:INFO:executable: /Users/anaconda3/envs/kumar/bin/python
+2023-12-05 20:36:04,555:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-12-05 20:36:04,555:INFO:PyCaret required dependencies:
+2023-12-05 20:39:19,274:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:39:19,274:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:39:19,274:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-05 20:39:19,275:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-06 19:34:07,939:WARNING:/var/folders/vm/g836zycn1tsgdyrwxsslj4qm0000gn/T/ipykernel_16500/2620825175.py:1: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  fraud_check = pd.value_counts(df['Class'], sort = True)
+
+2023-12-07 21:06:57,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-07 21:06:57,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-07 21:06:57,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-07 21:06:57,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-07 21:07:25,386:INFO:PyCaret ClassificationExperiment
+2023-12-07 21:07:25,386:INFO:Logging name: clf-default-name
+2023-12-07 21:07:25,386:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-12-07 21:07:25,386:INFO:version 3.2.0
+2023-12-07 21:07:25,386:INFO:Initializing setup()
+2023-12-07 21:07:25,386:INFO:self.USI: 2a0c
+2023-12-07 21:07:25,387:INFO:self._variable_keys: {'_ml_usecase', 'fold_generator', 'fix_imbalance', 'X_test', 'fold_shuffle_param', 'logging_param', 'pipeline', 'is_multiclass', 'y', 'log_plots_param', 'X', 'n_jobs_param', 'USI', 'exp_id', 'idx', 'y_test', 'y_train', 'exp_name_log', 'fold_groups_param', 'html_param', 'target_param', 'data', 'gpu_n_jobs_param', 'X_train', 'memory', 'gpu_param', 'seed', '_available_plots'}
+2023-12-07 21:07:25,387:INFO:Checking environment
+2023-12-07 21:07:25,387:INFO:python_version: 3.11.5
+2023-12-07 21:07:25,387:INFO:python_build: ('main', 'Sep 11 2023 08:19:27')
+2023-12-07 21:07:25,387:INFO:machine: x86_64
+2023-12-07 21:07:25,387:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-12-07 21:07:25,387:INFO:Memory: svmem(total=8589934592, available=3070971904, percent=64.2, used=4629794816, free=154411008, active=2911997952, inactive=2901819392, wired=1717796864)
+2023-12-07 21:07:25,388:INFO:Physical Core: 2
+2023-12-07 21:07:25,388:INFO:Logical Core: 4
+2023-12-07 21:07:25,388:INFO:Checking libraries
+2023-12-07 21:07:25,388:INFO:System:
+2023-12-07 21:07:25,388:INFO:    python: 3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
+2023-12-07 21:07:25,388:INFO:executable: /Users/anaconda3/envs/kumar/bin/python
+2023-12-07 21:07:25,388:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-12-07 21:07:25,388:INFO:PyCaret required dependencies:
